@@ -1,6 +1,7 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 import json
 from models import Alien
+import random
 
 app = FastAPI()
 
@@ -14,3 +15,7 @@ for alien in aliens_data:
 @app.get("/aliens")
 def get_all_aliens():
     return aliens
+
+@app.get("/aliens/random")
+def get_random_alien():
+    return random.choice(aliens)
