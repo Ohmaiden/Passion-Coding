@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Heatblast",
+    "alien_type": "Pyronite",
+    "home_planet": "Pyros",
+    "powers": ["fire manipulation", "flight", "heat resistance"],
+    "series": "Classic Series"
+  },
+  {
+    "name": "XLR8",
+    "alien_type": "Kineceleran",
+    "home_planet": "Kinet",
+    "powers": ["superspeed", "retractable claws", "tail balance"],
+    "series": "Classic Series"
+  },
+  {
+    "name": "Diamondhead",
+    "alien_type": "Petrosapien",
+    "home_planet": "Petropia",
+    "powers": ["crystal generation", "shard projectiles", "body reformation"],
+    "series": "Classic Series"
+  },
+  {
+    "name": "Four Arms",
+    "alien_type": "Tetramand",
+    "home_planet": "Khoros",
+    "powers": ["super strength", "four arms", "enhanced durability"],
+    "series": "Classic Series"
+  },
+  {
+    "name": "Grey Matter",
+    "alien_type": "Galvan",
+    "home_planet": "Galvan Prime",
+    "powers": ["super intelligence", "small size", "agility"],
+    "series": "Classic Series"
+  },
+  {
+    "name": "Stinkfly",
+    "alien_type": "Lepidopterran",
+    "home_planet": "Waybad",
+    "powers": ["flight", "slime projectiles", "360 degree vision"],
+    "series": "Classic Series"
+  },
+  {
+    "name": "Ripjaws",
+    "alien_type": "Piscciss Volann",
+    "home_planet": "Piscciss",
+    "powers": ["underwater breathing", "enhanced underwater strength", "bio-sonar"],
+    "series": "Classic Series"
+  },
+  {
+    "name": "Upgrade",
+    "alien_type": "Galvanic Mechamorph",
+    "home_planet": "Galvan B",
+    "powers": ["technology merging", "shapeshifting", "electromagnetic pulse"],
+    "series": "Classic Series"
+  },
+  {
+    "name": "Wildmutt",
+    "alien_type": "Vulpimancer",
+    "home_planet": "Vulpin",
+    "powers": ["super strength", "enhanced senses", "claws and speed"],
+    "series": "Classic Series"
+  },
+  {
+    "name": "Ghostfreak",
+    "alien_type": "Ectonurite",
+    "home_planet": "Anur Phaetos",
+    "powers": ["intangibility", "invisibility", "tentacles"],
+    "series": "Classic Series"
+  },
+  {
+    "name": "Wildvine",
+    "alien_type": "Florauna",
+    "home_planet": "Flors Verdance",
+    "powers": ["elastic vine limbs", "explosive seeds", "merging with plants"],
+    "series": "Classic Series"
+  },
+  {
+    "name": "Upchuck",
+    "alien_type": "Gourmand",
+    "home_planet": "Peptos XI",
+    "powers": ["energy disc burps", "extra stomachs", "wall climbing"],
+    "series": "Classic Series"
+  },
+  {
+    "name": "Ditto",
+    "alien_type": "Splixson",
+    "home_planet": "Hathor",
+    "powers": ["self duplication", "shared awareness between copies", "small size"],
+    "series": "Classic Series"
+  },
+  {
+    "name": "Cannonbolt",
+    "alien_type": "Arburian Pelarota",
+    "home_planet": "Arburia",
+    "powers": ["rolling into an armored ball", "high speed charge", "shockwave landing"],
+    "series": "Classic Series"
+  },
+  {
+    "name": "Snare-oh",
+    "alien_type": "Thep Khufan",
+    "home_planet": "Anur Khufos",
+    "powers": ["bandage constriction", "elastic bandage limbs", "self regeneration"],
+    "series": "Classic Series"
+  },
+  {
+    "name": "Eye Guy",
+    "alien_type": "Opticoid",
+    "home_planet": "Sightra",
+    "powers": ["multiple eyestalks", "optic beams", "360 degree vision"],
+    "series": "Classic Series"
+  },
+  {
+    "name": "Blitzwolfer",
+    "alien_type": "Loboan",
+    "home_planet": "Luna Lobo",
+    "powers": ["super strength", "night vision", "sonic howl"],
+    "series": "Classic Series",
+    "also_known_as": ["Benwolf"]
+  },
+  {
+    "name": "Buzzshock",
+    "alien_type": "Nosedeenian",
+    "home_planet": "Nosedeen Quasar",
+    "powers": ["electric form", "travel through wires", "size shifting"],
+    "series": "Classic Series"
+  },
+  {
+    "name": "Articguana",
+    "alien_type": "Polar Manzardill",
+    "home_planet": "X'Nelli",
+    "powers": ["ice breath", "freeze ray", "arctic survival"],
+    "series": "Classic Series"
+  },
+  {
+    "name": "Frankenstrike",
+    "alien_type": "Transylian",
+    "home_planet": "Anur Transyl",
+    "powers": ["super strength", "electric bolts", "adhering to metal"],
+    "series": "Classic Series"
+  },
+  {
+    "name": "Way Big",
+    "alien_type": "To'kustar",
+    "home_planet": "Born in cosmic storms, no fixed homeworld",
+    "powers": ["giant size", "cosmic ray blast", "immense strength"],
+    "series": "Classic Series"
+  },
+  {
+    "name": "Swampfire",
+    "alien_type": "Methanosian",
+    "home_planet": "Methanos",
+    "powers": ["fire manipulation", "plant regeneration", "corrosive spores"],
+    "series": "Alien Force"
+  },
+  {
+    "name": "Echo Echo",
+    "alien_type": "Sonorosian",
+    "home_planet": "Sonorosia",
+    "powers": ["sonic scream", "self duplication", "sound wave manipulation"],
+    "series": "Alien Force"
+  },
+  {
+    "name": "Humungousaur",
+    "alien_type": "Vaxasaurian",
+    "home_planet": "Terradino",
+    "powers": ["size growth", "super strength", "tail club"],
+    "series": "Alien Force"
+  },
+  {
+    "name": "Jetray",
+    "alien_type": "Aerophibian",
+    "home_planet": "Aeropela",
+    "powers": ["flight", "neurotoxin beam", "underwater breathing"],
+    "series": "Alien Force"
+  },
+  {
+    "name": "Big Chill",
+    "alien_type": "Necrofriggian",
+    "home_planet": "Kylmyys",
+    "powers": ["intangibility", "flight", "freezing touch"],
+    "series": "Alien Force"
+  },
+  {
+    "name": "Chromastone",
+    "alien_type": "Crystalsapien",
+    "home_planet": "Petropia",
+    "powers": ["light absorption", "energy beam projection", "crystalline durability"],
+    "series": "Alien Force"
+  },
+  {
+    "name": "Brainstorm",
+    "alien_type": "Cerebrocrustacean",
+    "home_planet": "Encephalonus IV",
+    "powers": ["super intelligence", "electric brain spikes", "durable exoskeleton"],
+    "series": "Alien Force"
+  },
+  {
+    "name": "Spidermonkey",
+    "alien_type": "Arachnichimp",
+    "home_planet": "Aranhascimmia",
+    "powers": ["wall climbing", "web shooting", "enhanced agility"],
+    "series": "Alien Force"
+  },
+  {
+    "name": "Goop",
+    "alien_type": "Polymorph",
+    "home_planet": "Viscosia",
+    "powers": ["shapeshifting", "acid corrosion", "near indestructible body"],
+    "series": "Alien Force"
+  },
+  {
+    "name": "Alien X",
+    "alien_type": "Celestialsapien",
+    "home_planet": "Forge of Creation",
+    "powers": ["reality manipulation", "time stop", "near omnipotence"],
+    "series": "Alien Force"
+  },
+   {
+    "name": "Lodestar",
+    "alien_type": "Biosovortian",
+    "home_planet": "Biosovort",
+    "powers": ["magnetism control", "metal manipulation", "magnetic flight"],
+    "series": "Alien Force"
+  },
+  {
+    "name": "Rath",
+    "alien_type": "Appoplexian",
+    "home_planet": "Appoplexia",
+    "powers": ["super strength", "retractable claws", "powerful roar"],
+    "series": "Alien Force"
+  }
+]
