@@ -1,5 +1,5 @@
 from fastapi import FastAPI, HTTPException
-import json, random, requests
+import json, random
 from models import Alien
 
 
