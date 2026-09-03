@@ -42,7 +42,6 @@ def main_menu():
         elif choice == "2":
             show_random_alien()
         elif choice == "3":
-            name = input("Enter alien name: ")
             show_alien_by_name(name)
         elif choice == "4":
             break
