@@ -11,10 +11,11 @@ def show_all_aliens():
 def show_random_alien():
     response = requests.get(f"{BASE_URL}/aliens/random")
     alien = response.json()
-    print(alien["name"])
-    print(alien["alien_type"])
-    print(alien["home_planet"])
-    print(alien["powers"])
+    for alien in aliens:
+        print(alien["name"])
+        print(alien["alien_type"])
+        print(alien["home_planet"])
+        print(alien["powers"])
                
         
 show_all_aliens()
