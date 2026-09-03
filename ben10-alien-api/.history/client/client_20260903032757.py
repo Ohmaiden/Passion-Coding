@@ -14,11 +14,7 @@ def show_all_aliens():
         print(alien["name"])
             
 def show_random_alien():
-    try:    
-        response = requests.get(f"{BASE_URL}/aliens/random")
-    except requests.exceptions.ConnectionError:
-        print("Could not connect to the server. Is it running?")
-        return
+    response = requests.get(f"{BASE_URL}/aliens/random")
     alien = response.json()
     print(alien["name"])
     print(alien["alien_type"])
@@ -26,11 +22,7 @@ def show_random_alien():
     print(alien["powers"])
                
 def show_alien_by_name(name):
-    try:
-        response = requests.get(f"{BASE_URL}/aliens/{name}")
-    except requests.exceptions.ConnectionError:
-        print("Could not connect to the server. Is it running?")
-        return 
+    response = requests.get(f"{BASE_URL}/aliens/{name}")
     if response.status_code == 404:
         print(f"Alien '{name}' not found")
     else:
