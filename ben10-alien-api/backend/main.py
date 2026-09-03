@@ -19,3 +19,9 @@ def get_all_aliens():
 @app.get("/aliens/random")
 def get_random_alien():
     return random.choice(aliens)
+
+@app.get("/aliens/{name}")
+def get_alien_by_name(name: str):
+    for alien in aliens:
+        if alien.name.lower() == name.lower():
+            return alien
