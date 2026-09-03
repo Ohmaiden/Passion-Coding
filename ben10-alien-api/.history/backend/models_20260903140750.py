@@ -6,7 +6,6 @@ class Alien(BaseModel):
     home_planet: str
     powers: list[str]
     series: str
-    also_known_as: list[str] | None = None
     
 if __name__ == "__main__":
     test = Alien(
