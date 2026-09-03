@@ -47,5 +47,3 @@ def main_menu():
             break
         else:
             print("Invalid choice, try again.")
-            
-main_menu()

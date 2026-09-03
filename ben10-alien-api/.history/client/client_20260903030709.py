@@ -28,24 +28,7 @@ def show_alien_by_name(name):
         print(alien["powers"])
 
         
-def main_menu():
-    while True:
-        print("\n--- Ben 10 Alien Finder ---")
-        print("1. Show all aliens")
-        print("2. Show random alien")
-        print("3. Search alien by name")
-        print("4. Quit")
-        choice = input("Choose an option: ")
-        
-        if choice == "1":
-            show_all_aliens()
-        elif choice == "2":
-            show_random_alien()
-        elif choice == "3":
-            show_alien_by_name()
-        elif choice == "4":
-            break
-        else:
-            print("Invalid choice, try again.")
-            
-main_menu()
+show_all_aliens()
+show_random_alien()
+show_alien_by_name("XLR8")
+show_alien_by_name("wolfblitz")
