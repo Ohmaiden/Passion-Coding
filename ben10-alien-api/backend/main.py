@@ -1,7 +1,7 @@
 from fastapi import FastAPI, HTTPException
-import json
+import json, random, requests
 from models import Alien
-import random
+
 
 app = FastAPI()
 
@@ -25,3 +25,4 @@ def get_alien_by_name(name: str):
     for alien in aliens:
         if alien.name.lower() == name.lower():
             return alien
+    raise HTTPException(status_code=404, detail="Alien not found")
