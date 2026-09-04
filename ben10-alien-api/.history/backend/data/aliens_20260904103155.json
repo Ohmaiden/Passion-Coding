@@ -60,11 +60,7 @@
     "alien_type": "Vulpimancer",
     "home_planet": "Vulpin",
     "powers": ["super strength", "enhanced senses", "claws and speed"],
-    "series": "Classic",
-    "ultimate_form": {
-      "name": "Ultimate Wildmutt",
-      "powers": ["increased strength", "spiked armor", "improved senses"]
-    }
+    "series": "Classic"
   },
   {
     "name": "Ghostfreak",
@@ -99,11 +95,7 @@
     "alien_type": "Arburian Pelarota",
     "home_planet": "Arburia",
     "powers": ["rolling into an armored ball", "high speed charge", "shockwave landing"],
-    "series": "Classic",
-    "ultimate_form": {
-      "name": "Ultimate Cannonbolt",
-      "powers": ["spiked armored shell", "faster rolling speed", "explosive shockwave landing"]
-    }
+    "series": "Classic"
   },
   {
     "name": "Snare-oh",
@@ -153,11 +145,7 @@
     "alien_type": "To'kustar",
     "home_planet": "Born in cosmic storms, no fixed homeworld",
     "powers": ["giant size", "cosmic ray blast", "immense strength"],
-    "series": "Classic",
-    "ultimate_form": {
-      "name": "Ultimate Way Big",
-      "powers": ["greater cosmic ray power", "increased size", "enhanced durability"]
-    }
+    "series": "Classic"
   },
   {
     "name": "Swampfire",
@@ -166,31 +154,23 @@
     "powers": ["fire manipulation", "plant regeneration", "corrosive spores"],
     "series": "Alien Force",
     "ultimate_form": {
-      "name": "Ultimate Swampfire",
-      "powers": ["intense blue fire", "super strength", "greater durability"]
-    }
+    "name": "Ultimate Swampfire",
+    "powers": ["intense blue fire", "super strength", "greater durability"]
+     }
   },
   {
     "name": "Echo Echo",
     "alien_type": "Sonorosian",
     "home_planet": "Sonorosia",
     "powers": ["sonic scream", "self duplication", "sound wave manipulation"],
-    "series": "Alien Force",
-    "ultimate_form": {
-      "name": "Ultimate Echo Echo",
-      "powers": ["amplified sonic blast", "increased size", "durable spiked exoskeleton"]
-    }
+    "series": "Alien Force"
   },
   {
     "name": "Humungousaur",
     "alien_type": "Vaxasaurian",
     "home_planet": "Terradino",
     "powers": ["size growth", "super strength", "tail club"],
-    "series": "Alien Force",
-    "ultimate_form": {
-      "name": "Ultimate Humungousaur",
-      "powers": ["fixed giant size", "bladed forearms", "enhanced strength"]
-    }
+    "series": "Alien Force"
   },
   {
     "name": "Jetray",
@@ -204,11 +184,7 @@
     "alien_type": "Necrofriggian",
     "home_planet": "Kylmyys",
     "powers": ["intangibility", "flight", "freezing touch"],
-    "series": "Alien Force",
-    "ultimate_form": {
-      "name": "Ultimate Big Chill",
-      "powers": ["freezing fire breath", "enhanced flight", "increased size and strength"]
-    }
+    "series": "Alien Force"
   },
   {
     "name": "Chromastone",
@@ -229,12 +205,7 @@
     "alien_type": "Arachnichimp",
     "home_planet": "Aranhascimmia",
     "powers": ["wall climbing", "web shooting", "enhanced agility"],
-    "series": "Alien Force",
-    "ultimate_form": {
-      "name": "Ultimate Spidermonkey",
-      "powers": ["increased size and strength", "reinforced webbing", "powerful gorilla-like arms"]
-    }
-
+    "series": "Alien Force"
   },
   {
     "name": "Goop",
@@ -263,61 +234,5 @@
     "home_planet": "Appoplexia",
     "powers": ["super strength", "retractable claws", "powerful roar"],
     "series": "Alien Force"
-  },
-    {
-    "name": "Bloxx",
-    "alien_type": "Segmentasapien",
-    "home_planet": "Polyominus",
-    "powers": ["shapeshifting body blocks", "elastic stretching", "launching body segments"],
-    "series": "Omniverse"
-  },
-  {
-    "name": "Feedback",
-    "alien_type": "Conductoid",
-    "home_planet": "Teslavorr",
-    "powers": ["energy absorption", "energy redirection", "electric plug attachment"],
-    "series": "Omniverse"
-  },
-  {
-    "name": "Astrodactyl",
-    "alien_type": "Pturbosaurian",
-    "home_planet": "Terradino",
-    "powers": ["jetpack flight", "star energy weapons", "energy beam projection"],
-    "series": "Omniverse"
-  },
-  {
-    "name": "Gravattack",
-    "alien_type": "Galilean",
-    "home_planet": "Keplorr",
-    "powers": ["gravity manipulation", "levitation", "rolling into a planetoid form"],
-    "series": "Omniverse"
-  },
-  {
-    "name": "Ball Weevil",
-    "alien_type": "Insectoid",
-    "home_planet": "Atrocious 0",
-    "powers": ["adhesive plasma balls", "riding on plasma spheres", "sticky projectiles"],
-    "series": "Omniverse"
-  },
-  {
-    "name": "Whampire",
-    "alien_type": "Vladat",
-    "home_planet": "Anur Vladias",
-    "powers": ["energy draining", "hypnosis", "bat form flight"],
-    "series": "Omniverse"
-  },
-  {
-    "name": "Shocksquatch",
-    "alien_type": "Gimlinopithecus",
-    "home_planet": "Pattersonea",
-    "powers": ["electricity generation", "super strength", "insulated fur"],
-    "series": "Omniverse"
-  },
-  {
-    "name": "Atomix",
-    "alien_type": "Unknown, never confirmed in canon",
-    "home_planet": "Unknown, never confirmed in canon",
-    "powers": ["nuclear energy blasts", "flight", "immense strength"],
-    "series": "Omniverse"
   }
 ]

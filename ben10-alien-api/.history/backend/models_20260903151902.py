@@ -17,7 +17,7 @@ if __name__ == "__main__":
         name="Heatblast",
         alien_type="Pyronite",
         home_planet="Pyros",
-        powers=["fire manipulation", "flight"],
+        powers=["fire manipulation", "flight"]
         series="Classic"
     )
     
