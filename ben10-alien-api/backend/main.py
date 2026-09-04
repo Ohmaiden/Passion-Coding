@@ -13,14 +13,15 @@ for alien in aliens_data:
     aliens.append(Alien(**alien))
     
 @app.get("/aliens")
-def get_all_aliens(series: str | None = None):
+def get_all_aliens(series: str | None = None, skip: int = 0, limit: int = 10):
+    result = aliens
     if series:
         matches = []
-        for alien in aliens:
+        for alien in result:
             if alien.series.lower() == series.lower():
                 matches.append(alien)
-        return matches
-    return aliens
+        result = matches
+    return result[skip: skip + limit]
 
 @app.get("/aliens/random")
 def get_random_alien():
