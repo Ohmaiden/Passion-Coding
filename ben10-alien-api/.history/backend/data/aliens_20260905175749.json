@@ -1,0 +1,401 @@
+[
+  {
+    "name": "Heatblast",
+    "alien_type": "Pyronite",
+    "home_planet": "Pyros",
+    "powers": ["fire manipulation", "flight", "heat resistance"],
+    "series": "Classic"
+  },
+  {
+    "name": "XLR8",
+    "alien_type": "Kineceleran",
+    "home_planet": "Kinet",
+    "powers": ["superspeed", "retractable claws", "tail balance"],
+    "series": "Classic"
+  },
+  {
+    "name": "Diamondhead",
+    "alien_type": "Petrosapien",
+    "home_planet": "Petropia",
+    "powers": ["crystal generation", "shard projectiles", "body reformation"],
+    "series": "Classic"
+  },
+  {
+    "name": "Four Arms",
+    "alien_type": "Tetramand",
+    "home_planet": "Khoros",
+    "powers": ["super strength", "four arms", "enhanced durability"],
+    "series": "Classic"
+  },
+  {
+    "name": "Grey Matter",
+    "alien_type": "Galvan",
+    "home_planet": "Galvan Prime",
+    "powers": ["super intelligence", "small size", "agility"],
+    "series": "Classic"
+  },
+  {
+    "name": "Stinkfly",
+    "alien_type": "Lepidopterran",
+    "home_planet": "Waybad",
+    "powers": ["flight", "slime projectiles", "360 degree vision"],
+    "series": "Classic"
+  },
+  {
+    "name": "Ripjaws",
+    "alien_type": "Piscciss Volann",
+    "home_planet": "Piscciss",
+    "powers": ["underwater breathing", "enhanced underwater strength", "bio-sonar"],
+    "series": "Classic"
+  },
+  {
+    "name": "Upgrade",
+    "alien_type": "Galvanic Mechamorph",
+    "home_planet": "Galvan B",
+    "powers": ["technology merging", "shapeshifting", "electromagnetic pulse"],
+    "series": "Classic"
+  },
+  {
+    "name": "Wildmutt",
+    "alien_type": "Vulpimancer",
+    "home_planet": "Vulpin",
+    "powers": ["super strength", "enhanced senses", "claws and speed"],
+    "series": "Classic",
+    "ultimate_form": {
+      "name": "Ultimate Wildmutt",
+      "powers": ["increased strength", "spiked armor", "improved senses"]
+    }
+  },
+  {
+    "name": "Ghostfreak",
+    "alien_type": "Ectonurite",
+    "home_planet": "Anur Phaetos",
+    "powers": ["intangibility", "invisibility", "tentacles"],
+    "series": "Classic"
+  },
+  {
+    "name": "Wildvine",
+    "alien_type": "Florauna",
+    "home_planet": "Flors Verdance",
+    "powers": ["elastic vine limbs", "explosive seeds", "merging with plants"],
+    "series": "Classic"
+  },
+  {
+    "name": "Upchuck",
+    "alien_type": "Gourmand",
+    "home_planet": "Peptos XI",
+    "powers": ["energy disc burps", "extra stomachs", "wall climbing"],
+    "series": "Classic"
+  },
+  {
+    "name": "Ditto",
+    "alien_type": "Splixson",
+    "home_planet": "Hathor",
+    "powers": ["self duplication", "shared awareness between copies", "small size"],
+    "series": "Classic"
+  },
+  {
+    "name": "Cannonbolt",
+    "alien_type": "Arburian Pelarota",
+    "home_planet": "Arburia",
+    "powers": ["rolling into an armored ball", "high speed charge", "shockwave landing"],
+    "series": "Classic",
+    "ultimate_form": {
+      "name": "Ultimate Cannonbolt",
+      "powers": ["spiked armored shell", "faster rolling speed", "explosive shockwave landing"]
+    }
+  },
+  {
+    "name": "Snare-oh",
+    "alien_type": "Thep Khufan",
+    "home_planet": "Anur Khufos",
+    "powers": ["bandage constriction", "elastic bandage limbs", "self regeneration"],
+    "series": "Classic"
+  },
+  {
+    "name": "Eye Guy",
+    "alien_type": "Opticoid",
+    "home_planet": "Sightra",
+    "powers": ["multiple eyestalks", "optic beams", "360 degree vision"],
+    "series": "Classic"
+  },
+  {
+    "name": "Blitzwolfer",
+    "alien_type": "Loboan",
+    "home_planet": "Luna Lobo",
+    "powers": ["super strength", "night vision", "sonic howl"],
+    "series": "Classic",
+    "also_known_as": ["Benwolf"]
+  },
+  {
+    "name": "Buzzshock",
+    "alien_type": "Nosedeenian",
+    "home_planet": "Nosedeen Quasar",
+    "powers": ["electric form", "travel through wires", "size shifting"],
+    "series": "Classic"
+  },
+  {
+    "name": "Articguana",
+    "alien_type": "Polar Manzardill",
+    "home_planet": "X'Nelli",
+    "powers": ["ice breath", "freeze ray", "arctic survival"],
+    "series": "Classic"
+  },
+  {
+    "name": "Frankenstrike",
+    "alien_type": "Transylian",
+    "home_planet": "Anur Transyl",
+    "powers": ["super strength", "electric bolts", "adhering to metal"],
+    "series": "Classic"
+  },
+  {
+    "name": "Way Big",
+    "alien_type": "To'kustar",
+    "home_planet": "Born in cosmic storms, no fixed homeworld",
+    "powers": ["giant size", "cosmic ray blast", "immense strength"],
+    "series": "Classic",
+    "ultimate_form": {
+      "name": "Ultimate Way Big",
+      "powers": ["greater cosmic ray power", "increased size", "enhanced durability"]
+    }
+  },
+  {
+    "name": "Swampfire",
+    "alien_type": "Methanosian",
+    "home_planet": "Methanos",
+    "powers": ["fire manipulation", "plant regeneration", "corrosive spores"],
+    "series": "Alien Force",
+    "ultimate_form": {
+      "name": "Ultimate Swampfire",
+      "powers": ["intense blue fire", "super strength", "greater durability"]
+    }
+  },
+  {
+    "name": "Echo Echo",
+    "alien_type": "Sonorosian",
+    "home_planet": "Sonorosia",
+    "powers": ["sonic scream", "self duplication", "sound wave manipulation"],
+    "series": "Alien Force",
+    "ultimate_form": {
+      "name": "Ultimate Echo Echo",
+      "powers": ["amplified sonic blast", "increased size", "durable spiked exoskeleton"]
+    }
+  },
+  {
+    "name": "Humungousaur",
+    "alien_type": "Vaxasaurian",
+    "home_planet": "Terradino",
+    "powers": ["size growth", "super strength", "tail club"],
+    "series": "Alien Force",
+    "ultimate_form": {
+      "name": "Ultimate Humungousaur",
+      "powers": ["fixed giant size", "bladed forearms", "enhanced strength"]
+    }
+  },
+  {
+    "name": "Jetray",
+    "alien_type": "Aerophibian",
+    "home_planet": "Aeropela",
+    "powers": ["flight", "neurotoxin beam", "underwater breathing"],
+    "series": "Alien Force"
+  },
+  {
+    "name": "Big Chill",
+    "alien_type": "Necrofriggian",
+    "home_planet": "Kylmyys",
+    "powers": ["intangibility", "flight", "freezing touch"],
+    "series": "Alien Force",
+    "ultimate_form": {
+      "name": "Ultimate Big Chill",
+      "powers": ["freezing fire breath", "enhanced flight", "increased size and strength"]
+    }
+  },
+  {
+    "name": "Chromastone",
+    "alien_type": "Crystalsapien",
+    "home_planet": "Petropia",
+    "powers": ["light absorption", "energy beam projection", "crystalline durability"],
+    "series": "Alien Force"
+  },
+  {
+    "name": "Brainstorm",
+    "alien_type": "Cerebrocrustacean",
+    "home_planet": "Encephalonus IV",
+    "powers": ["super intelligence", "electric brain spikes", "durable exoskeleton"],
+    "series": "Alien Force"
+  },
+  {
+    "name": "Spidermonkey",
+    "alien_type": "Arachnichimp",
+    "home_planet": "Aranhascimmia",
+    "powers": ["wall climbing", "web shooting", "enhanced agility"],
+    "series": "Alien Force",
+    "ultimate_form": {
+      "name": "Ultimate Spidermonkey",
+      "powers": ["increased size and strength", "reinforced webbing", "powerful gorilla-like arms"]
+    }
+
+  },
+  {
+    "name": "Goop",
+    "alien_type": "Polymorph",
+    "home_planet": "Viscosia",
+    "powers": ["shapeshifting", "acid corrosion", "near indestructible body"],
+    "series": "Alien Force"
+  },
+  {
+    "name": "Alien X",
+    "alien_type": "Celestialsapien",
+    "home_planet": "Forge of Creation",
+    "powers": ["reality manipulation", "time stop", "near omnipotence"],
+    "series": "Alien Force"
+  },
+   {
+    "name": "Lodestar",
+    "alien_type": "Biosovortian",
+    "home_planet": "Biosovort",
+    "powers": ["magnetism control", "metal manipulation", "magnetic flight"],
+    "series": "Alien Force"
+  },
+  {
+    "name": "Rath",
+    "alien_type": "Appoplexian",
+    "home_planet": "Appoplexia",
+    "powers": ["super strength", "retractable claws", "powerful roar"],
+    "series": "Alien Force"
+  },
+
+    {
+    "name": "Nanomech",
+    "alien_type": "Nanochip-Human Hybrid",
+    "home_planet": "Earth",
+    "powers": ["energy ball projection", "flight", "size shifting to microscopic scale"],
+    "series": "Alien Force"
+  },
+  {
+    "name": "NRG",
+    "alien_type": "Prypiatosian-B",
+    "home_planet": "Prypiatos",
+    "powers": ["radioactive energy blasts", "intense heat generation", "durable containment suit"],
+    "series": "Ultimate Alien"
+  },
+  {
+    "name": "AmpFibian",
+    "alien_type": "Amperi",
+    "home_planet": "Tesslos",
+    "powers": ["electric absorption", "electric redirection", "intangibility as electric current"],
+    "series": "Ultimate Alien"
+  },
+  {
+    "name": "Armodrillo",
+    "alien_type": "Talpaedan",
+    "home_planet": "Terraexcava",
+    "powers": ["super strength", "drill arms", "earth tremors"],
+    "series": "Ultimate Alien"
+  },
+  {
+    "name": "Water Hazard",
+    "alien_type": "Orishan",
+    "home_planet": "Kiusana",
+    "powers": ["water blasts", "moisture absorption", "aquatic resilience"],
+    "series": "Ultimate Alien"
+  },
+  {
+    "name": "Eatle",
+    "alien_type": "Oryctini",
+    "home_planet": "Coleop Terra",
+    "powers": ["super strength", "drill horn", "hardened exoskeleton"],
+    "series": "Ultimate Alien"
+  },
+  {
+    "name": "Fasttrack",
+    "alien_type": "Citrakayah",
+    "home_planet": "Chalybeas",
+    "powers": ["superspeed", "enhanced strength", "retractable claws"],
+    "series": "Ultimate Alien"
+  },
+  {
+    "name": "ChamAlien",
+    "alien_type": "Merlinisapien",
+    "home_planet": "Unknown, never confirmed in canon",
+    "powers": ["invisibility", "tongue whip", "voice mimicry"],
+    "series": "Ultimate Alien"
+  },
+  {
+    "name": "Jury Rigg",
+    "alien_type": "Planchakule",
+    "home_planet": "Aul-turrhen",
+    "powers": ["technology modification", "super strength for size", "climbing claws"],
+    "series": "Ultimate Alien"
+  },
+  {
+    "name": "Clockwork",
+    "alien_type": "Chronosapien",
+    "home_planet": "Unknown, never confirmed in canon",
+    "powers": ["time manipulation", "flight", "gear-plated durability"],
+    "series": "Ultimate Alien"
+  },
+  {
+    "name": "Terraspin",
+    "alien_type": "Geochelone Aerio",
+    "home_planet": "Aldabra",
+    "powers": ["wind manipulation", "flight", "shell defense"],
+    "series": "Ultimate Alien"
+  },
+    {
+    "name": "Bloxx",
+    "alien_type": "Segmentasapien",
+    "home_planet": "Polyominus",
+    "powers": ["shapeshifting body blocks", "elastic stretching", "launching body segments"],
+    "series": "Omniverse"
+  },
+  {
+    "name": "Feedback",
+    "alien_type": "Conductoid",
+    "home_planet": "Teslavorr",
+    "powers": ["energy absorption", "energy redirection", "electric plug attachment"],
+    "series": "Omniverse"
+  },
+  {
+    "name": "Astrodactyl",
+    "alien_type": "Pturbosaurian",
+    "home_planet": "Terradino",
+    "powers": ["jetpack flight", "star energy weapons", "energy beam projection"],
+    "series": "Omniverse"
+  },
+  {
+    "name": "Gravattack",
+    "alien_type": "Galilean",
+    "home_planet": "Keplorr",
+    "powers": ["gravity manipulation", "levitation", "rolling into a planetoid form"],
+    "series": "Omniverse"
+  },
+  {
+    "name": "Ball Weevil",
+    "alien_type": "Insectoid",
+    "home_planet": "Atrocious 0",
+    "powers": ["adhesive plasma balls", "riding on plasma spheres", "sticky projectiles"],
+    "series": "Omniverse"
+  },
+  {
+    "name": "Whampire",
+    "alien_type": "Vladat",
+    "home_planet": "Anur Vladias",
+    "powers": ["energy draining", "hypnosis", "bat form flight"],
+    "series": "Omniverse"
+  },
+  {
+    "name": "Shocksquatch",
+    "alien_type": "Gimlinopithecus",
+    "home_planet": "Pattersonea",
+    "powers": ["electricity generation", "super strength", "insulated fur"],
+    "series": "Omniverse"
+  },
+  {
+    "name": "Atomix",
+    "alien_type": "Unknown, never confirmed in canon",
+    "home_planet": "Unknown, never confirmed in canon",
+    "powers": ["nuclear energy blasts", "flight", "immense strength"],
+    "series": "Omniverse"
+  }
+]
