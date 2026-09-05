@@ -13,7 +13,7 @@ for alien in aliens_data:
     aliens.append(Alien(**alien))
     
 @app.get("/aliens")
-def get_all_aliens(series: str | None = None, skip: int = 0, limit: int = 10):
+def get_all_aliens(series: str | None = None, skip: int = 0, limit: int = 10, sort_by: str | None = None):
     result = aliens
     if series:
         matches = []
@@ -21,6 +21,10 @@ def get_all_aliens(series: str | None = None, skip: int = 0, limit: int = 10):
             if alien.series.lower() == series.lower():
                 matches.append(alien)
         result = matches
+    if sort_by == "name":
+        result = sorted(result, key=lambda alien: alien.name)
+    elif sort_by == "series":
+        result = sorted(result, key=lambda alien: alien.series)
     return result[skip: skip + limit]
 
 @app.get("/aliens/random")
