@@ -264,6 +264,84 @@
     "powers": ["super strength", "retractable claws", "powerful roar"],
     "series": "Alien Force"
   },
+
+    {
+    "name": "Nanomech",
+    "alien_type": "Nanochip-Human Hybrid",
+    "home_planet": "Earth",
+    "powers": ["energy ball projection", "flight", "size shifting to microscopic scale"],
+    "series": "Alien Force"
+  },
+  {
+    "name": "NRG",
+    "alien_type": "Prypiatosian-B",
+    "home_planet": "Prypiatos",
+    "powers": ["radioactive energy blasts", "intense heat generation", "durable containment suit"],
+    "series": "Ultimate Alien"
+  },
+  {
+    "name": "AmpFibian",
+    "alien_type": "Amperi",
+    "home_planet": "Tesslos",
+    "powers": ["electric absorption", "electric redirection", "intangibility as electric current"],
+    "series": "Ultimate Alien"
+  },
+  {
+    "name": "Armodrillo",
+    "alien_type": "Talpaedan",
+    "home_planet": "Terraexcava",
+    "powers": ["super strength", "drill arms", "earth tremors"],
+    "series": "Ultimate Alien"
+  },
+  {
+    "name": "Water Hazard",
+    "alien_type": "Orishan",
+    "home_planet": "Kiusana",
+    "powers": ["water blasts", "moisture absorption", "aquatic resilience"],
+    "series": "Ultimate Alien"
+  },
+  {
+    "name": "Eatle",
+    "alien_type": "Oryctini",
+    "home_planet": "Coleop Terra",
+    "powers": ["super strength", "drill horn", "hardened exoskeleton"],
+    "series": "Ultimate Alien"
+  },
+  {
+    "name": "Fasttrack",
+    "alien_type": "Citrakayah",
+    "home_planet": "Chalybeas",
+    "powers": ["superspeed", "enhanced strength", "retractable claws"],
+    "series": "Ultimate Alien"
+  },
+  {
+    "name": "ChamAlien",
+    "alien_type": "Merlinisapien",
+    "home_planet": "Unknown, never confirmed in canon",
+    "powers": ["invisibility", "tongue whip", "voice mimicry"],
+    "series": "Ultimate Alien"
+  },
+  {
+    "name": "Jury Rigg",
+    "alien_type": "Planchakule",
+    "home_planet": "Aul-turrhen",
+    "powers": ["technology modification", "super strength for size", "climbing claws"],
+    "series": "Ultimate Alien"
+  },
+  {
+    "name": "Clockwork",
+    "alien_type": "Chronosapien",
+    "home_planet": "Unknown, never confirmed in canon",
+    "powers": ["time manipulation", "flight", "gear-plated durability"],
+    "series": "Ultimate Alien"
+  },
+  {
+    "name": "Terraspin",
+    "alien_type": "Geochelone Aerio",
+    "home_planet": "Aldabra",
+    "powers": ["wind manipulation", "flight", "shell defense"],
+    "series": "Ultimate Alien"
+  },
     {
     "name": "Bloxx",
     "alien_type": "Segmentasapien",
