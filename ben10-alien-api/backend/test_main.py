@@ -20,3 +20,11 @@ def test_get_alien_by_name():
 def test_get_alien_by_name_not_found():
     response = client.get("/aliens/FakeAlien123")
     assert response.status_code == 404
+    
+def test_filter_by_series():
+    response = client.get("/aliens", params={"series": "Classic"})
+    assert response.status_code == 200
+    data = response.json()
+    assert all(alien["series"] == "Classic" for alien in data)
+    
+       
