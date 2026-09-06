@@ -27,4 +27,22 @@ def test_filter_by_series():
     data = response.json()
     assert all(alien["series"] == "Classic" for alien in data)
     
-       
+def test_pagination_limit():
+    response = client.get("/aliens", params={"limit": 5})
+    assert response.status_code == 200
+    data = response.json()
+    assert len(data) > 0
+    
+def test_sort_by_name():
+    response = client.get("/aliens", params={"sort_by": "name", "limit": 5})
+    assert response.status_code == 200
+    data = response.json()
+    names = [alien["name"] for alien in data]
+    assert names == sorted(names)
+    
+def test_search_powers():
+    response = client.get("/aliens", params={"search": "fire"})
+    assert response.status_code == 200
+    data = response.json()
+    assert len(data) > 0
+    
