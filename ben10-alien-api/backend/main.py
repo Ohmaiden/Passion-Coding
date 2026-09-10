@@ -30,6 +30,8 @@ def get_all_aliens(series: str | None = None, skip: int = 0, limit: int = 10, so
                 found = True
             if search_term in alien.alien_type.lower():
                 found = True
+            if search_term in alien.home_planet.lower():
+                found = True
             for power in alien.powers:
                 if search_term in power.lower():
                     found = True
